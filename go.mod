@@ -1,3 +1,3 @@
-module toait
+module github.com/toait/toait
 
-go 1.27.3
+go 1.27

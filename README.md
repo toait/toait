@@ -5,4 +5,4 @@
 ## License
 
 Copyright &copy; 2026 Ahmed Almadhoob. All rights reserved.<br />
-This is an open-source project under the [MIT License](LICENSE) by TOAIT Community ✳️
+This is an open-source project under the [MIT License](LICENSE) by [TOAIT Community](https://www.toait.com) ✳️
